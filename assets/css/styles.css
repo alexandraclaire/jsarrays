@@ -1,0 +1,14 @@
+body {
+	font-family:helvetica;
+	width:88%;
+	max-width:960px;
+	margin:0 auto;
+	background:pink;
+	color:grey;
+	
+}
+h1 {
+	font-size:100px;
+	color:white;
+	text-align:center;
+}
